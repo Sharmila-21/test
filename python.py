@@ -4,3 +4,4 @@ if inp == "Yes":
     print ("hello Sharmila ")
 else:
     print ("Idont know you bye!")
+    print("bye")
