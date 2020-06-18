@@ -5,3 +5,5 @@ if inp == "Yes":
 else:
     print ("Idont know you bye!")
     print("bye")
+print("Hey")
+print("Hello")
